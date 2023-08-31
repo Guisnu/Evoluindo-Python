@@ -1,0 +1,15 @@
+#PADRÃO DE NOMENCLATURA DE VARIÁVEL E ARQUIVOS
+
+#REGRA 1: NÃO USE ACENTOS
+#REGRA 2: NÃO UTILIZE CARACTERES ESPECIAIS (* Ç)
+
+#EXCEÇÕES
+
+8IDADE = 18 #NÃO/ERRO
+idade8 = 18 #SIM/CORRETO
+
+três pessoas = "João, Maria, Jose" #NÃO/ERRO
+tres_pessoas = "João, Maria, Jose" #SIM/CORRETO
+
+#PALAVRAS RESERVADAS: 
+if else for while def return #NÃO UTILIZE COMO NOME DE VAR
